@@ -1,1 +1,1 @@
-Su dirección de correo electrónico ha sido verificada correctamente.
+### Su dirección de correo electrónico ha sido verificada correctamente.
